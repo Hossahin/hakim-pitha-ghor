@@ -1,0 +1,19 @@
+main {
+    text-align: center;
+}
+
+h1{
+    font-weight: 900;
+    color: blueviolet;
+}
+
+h2{
+    color: burlywood;
+    font-weight: 400;
+    color: black;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
